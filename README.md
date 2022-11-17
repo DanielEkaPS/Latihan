@@ -1,2 +1,2 @@
 # deskripsi
-Mari berkenalan :)
+Latihan Awal
